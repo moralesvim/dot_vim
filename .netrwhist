@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/amorales/amorales_adam_lowe_version'
+let g:netrw_dirhist_2='/Users/amorales/rails3/player'
+let g:netrw_dirhist_3='/Users/amorales/rails3/biz_data'
+let g:netrw_dirhist_4='/Users/amorales/personal/site'
+let g:netrw_dirhist_5='/Users/amorales/.rvm/gems/ruby-1.9.3-p194/gems/databasedotcom-oauth2-0.2.1'
+let g:netrw_dirhist_6='/Users/amorales/.rvm/gems/ruby-1.9.3-p194/gems/faraday-0.8.5'
+let g:netrw_dirhist_7='/Users/amorales/.rvm/gems/ruby-1.9.3-p392/gems/adauth-1.2.1'
+let g:netrw_dirhist_8='/Users/amorales/.rvm/gems/ruby-1.9.3-p392/bundler/gems/ad_auth_client-7ca0d491c239'
+let g:netrw_dirhist_9='/Users/amorales/rails4/riverbed_base'
